@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OneSwapLargest/OneSwapLargest.iml" filepath="$PROJECT_DIR$/OneSwapLargest/OneSwapLargest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayBST/ScratchPad/ArrayBST.iml" filepath="$PROJECT_DIR$/ArrayBST/ScratchPad/ArrayBST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LLRemoveDup/LLRemoveDup.iml" filepath="$PROJECT_DIR$/LLRemoveDup/LLRemoveDup.iml" />
       <module fileurl="file://$PROJECT_DIR$/OneSwapLargest/OneSwapLargest.iml" filepath="$PROJECT_DIR$/OneSwapLargest/OneSwapLargest.iml" />
       <module fileurl="file://$PROJECT_DIR$/XOR of Array (Two Num)/XOR of Array (Two Num).iml" filepath="$PROJECT_DIR$/XOR of Array (Two Num)/XOR of Array (Two Num).iml" />
     </modules>
