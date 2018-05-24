@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Add Two Numbers/Add Two Numbers.iml" filepath="$PROJECT_DIR$/Add Two Numbers/Add Two Numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayBST/ArrayBST.iml" filepath="$PROJECT_DIR$/ArrayBST/ArrayBST.iml" />
       <module fileurl="file://$PROJECT_DIR$/BTreeStructure/BTreeStructure.iml" filepath="$PROJECT_DIR$/BTreeStructure/BTreeStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryGap/BinaryGap.iml" filepath="$PROJECT_DIR$/BinaryGap/BinaryGap.iml" />
       <module fileurl="file://$PROJECT_DIR$/ElevatorSystem/ElevatorSystem.iml" filepath="$PROJECT_DIR$/ElevatorSystem/ElevatorSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/LLRemoveDup/LLRemoveDup.iml" filepath="$PROJECT_DIR$/LLRemoveDup/LLRemoveDup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxDoubleSliceSum/MaxDoubleSliceSum.iml" filepath="$PROJECT_DIR$/MaxDoubleSliceSum/MaxDoubleSliceSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxProfit/MaxProfit.iml" filepath="$PROJECT_DIR$/MaxProfit/MaxProfit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxSliceSum/MaxSliceSum.iml" filepath="$PROJECT_DIR$/MaxSliceSum/MaxSliceSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OddOccurrencesInArray/OddOccurrencesInArray.iml" filepath="$PROJECT_DIR$/OddOccurrencesInArray/OddOccurrencesInArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/OneSwapLargest/OneSwapLargest.iml" filepath="$PROJECT_DIR$/OneSwapLargest/OneSwapLargest.iml" />
       <module fileurl="file://$PROJECT_DIR$/RomanNumerals/RomanNumerals.iml" filepath="$PROJECT_DIR$/RomanNumerals/RomanNumerals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScratchPad/ScratchPad.iml" filepath="$PROJECT_DIR$/ScratchPad/ScratchPad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmallestPositive/SmallestPositive.iml" filepath="$PROJECT_DIR$/SmallestPositive/SmallestPositive.iml" />
       <module fileurl="file://$PROJECT_DIR$/WordBreak2/WordBreak2.iml" filepath="$PROJECT_DIR$/WordBreak2/WordBreak2.iml" />
       <module fileurl="file://$PROJECT_DIR$/XOR of Array (Two Num)/XOR of Array (Two Num).iml" filepath="$PROJECT_DIR$/XOR of Array (Two Num)/XOR of Array (Two Num).iml" />
     </modules>
